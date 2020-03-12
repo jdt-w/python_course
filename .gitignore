@@ -7,6 +7,8 @@
 
 .github/
 
+# Custom files
+
 # User-specific files
 *.rsuser
 *.suo
