@@ -23,4 +23,6 @@
 
 Свяжитесь с автором проекта: [welpodron](https://vk.com/welpodron)
 
+Свяжитесь с автором проекта: <a href="https://vk.com/welpodron" target="_blank">welpodron</a>
+
 > @welpodron 2020
