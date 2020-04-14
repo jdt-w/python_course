@@ -108,7 +108,7 @@ for klu4 in slovarb_1:
                 print(slovarb_1[klu4][element])
 ```
 
-* Образец решённого задания находится в папке `welpodron` - файл `welpodron.py`
+* Образец решённого задания находится в папке <a href="./welpodron">`welpodron`</a> - файл <a href="./welpodron/welpodron.py">`welpodron.py`</a>
 
 #### <a name="ADDITIONAL_MATERIALS"></a> 3. Дополнительные материалы
 

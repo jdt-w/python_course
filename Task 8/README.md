@@ -109,7 +109,7 @@ stroka_1 = spisok_1[1][0]
 print(number_2, number_3, number_4, stroka_1)
 ```
 
-* Образец решённого задания находится в папке `welpodron` - файл `welpodron.py`
+* Образец решённого задания находится в папке <a href="./welpodron">`welpodron`</a> - файл <a href="./welpodron/welpodron.py">`welpodron.py`</a>
 
 #### <a name="ADDITIONAL_MATERIALS"></a> 3. Дополнительные материалы
 

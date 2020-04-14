@@ -74,7 +74,7 @@ stroka_3 = stroka_1[number_2 + 1 + 2 * 3]
 print(stroka_2, stroka_3)
 ```
 
-* Образец решённого задания находится в папке `welpodron` - файл `welpodron.py`
+* Образец решённого задания находится в папке <a href="./welpodron">`welpodron`</a> - файл <a href="./welpodron/welpodron.py">`welpodron.py`</a>
 
 #### <a name="ADDITIONAL_MATERIALS"></a> 3. Дополнительные материалы
 
