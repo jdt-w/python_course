@@ -4,7 +4,7 @@
 
 + [Получение обновлений](#Updating)
 + [Знакомство с регламентом](#Regulations)
-+ [При возникновении проблем](#Issues)
++ [При возникновении проблем](#ISSUES)
 
 #### <a name="Updating"></a> 1. Прежде чем приступать к новому заданию, обновите **ваш форк** 
 
@@ -18,7 +18,7 @@
 
 [Ссылка на регламент проекта](https://github.com/jdt-w/python_course/blob/master/README.md)
 
-#### <a name="Issues"></a> Есть вопрос?
+#### <a name="ISSUES"></a> Есть вопрос?
 
 Свяжитесь с автором проекта: [welpodron](https://vk.com/welpodron)
 

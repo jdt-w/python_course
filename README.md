@@ -4,7 +4,7 @@
 
 + [Процесс обучения](#LearningProcess)
 + [Процесс выполнения заданий](#TasksSolving)
-+ [При возникновении проблем](#Issues)
++ [При возникновении проблем](#ISSUES)
 
 #### <a name="LearningProcess"></a> 1. Процесс обучения
 
@@ -16,7 +16,7 @@
 
 * Перед выполнением заданий необходимо ознакомиться с разделом wiki: [Начало рабочего процесса](https://github.com/jdt-w/python_course/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0)
 
-#### <a name="Issues"></a> Есть вопрос?
+#### <a name="ISSUES"></a> Есть вопрос?
 
 Свяжитесь с автором проекта: [welpodron](https://vk.com/welpodron)
 
